@@ -1,3 +1,4 @@
+i=3
 list_of_digits=[0,1,2,3,4,]
 input_digit=int(input ("enter a digit"))
 for i in list_of_digits:
